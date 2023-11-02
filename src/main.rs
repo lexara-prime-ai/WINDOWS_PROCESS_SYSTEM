@@ -59,7 +59,7 @@ fn main() {
     };
 
     if success == FALSE {
-        println!("Failed yo create resources...");
+        println!("Failed to create resources...");
         return;
     }
 
